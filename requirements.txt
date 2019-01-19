@@ -1,0 +1,4 @@
+selenium==3.141.0
+docker==3.6.0
+SSLyze==1.0.0
+python-nmap==0.6.1

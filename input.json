@@ -1,0 +1,4 @@
+{
+  "target": "https://www.example.org/",
+  "login_page": "https://www.example.org/login"
+}
